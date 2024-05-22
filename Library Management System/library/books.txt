@@ -1,0 +1,19 @@
+A|B|6
+Harry-Potter|J.K.Rowling|2
+Gatsby|F.Scott Fitzgerald|2
+Calculus|J.Stewart|1
+Algebra|G.Birkhoff|1
+Geometry|D.Pede|1
+Analysis|E.Hewitet|0
+Astronomy|J.Behkich|1
+Physics|J.Walr|1
+Chemistry|P.Asons|1
+Biology|N.Camp|1
+History|J.Robert|1
+Geography|D.Dolin|1
+Matematica|I.Balcescu|2
+Mate|M.Mateescu|3
+Story|G.Georgescu|1
+IT-field|J.Jonson|2
+Programming|J.Jonson|2
+Computer-Science|J.Jonson|2

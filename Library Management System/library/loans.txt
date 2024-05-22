@@ -1,0 +1,4 @@
+test|test|Matematica|I.Balcescu
+test|test|History|G.Georgescu
+test|test|Mate|G.Georgescu
+test|test|A|J.Jonson
